@@ -5,7 +5,7 @@
 ###
 
 # 💫 About Me:
-Hi 👋, I'm SURAJ YELORE<br>A passionate Front End Developer from India, I am interested in Front End | Full Stack WebDevelopment<br><br>Know about me I'm passionate about creating user-friendly and visually appealing websites that provide an optimal user experience. Aside from coding, I'm an avid sports fan and enjoy playing Cricket and swimming in my free time. I also enjoy traveling and learning about different cultures.<br><br>- 👯 I’m looking to collaborate on Fullstack projects<br><br>- 🌱 I’m currently learning Redux and Postgresql.<br><br>- 💬 Ask me about **HTML, CSS, JavaScript, React**<br><br>- 📫 How to reach me **syelore95@gmail.com**<br><br>- ⚡ Contact me on LinkedIn **https://www.linkedin.com/in/suraj-yelore-a21b06212**
+Hi 👋, I'm SURAJ YELORE<br>A passionate Front End Developer from India, I am interested in Front End | Full Stack WebDevelopment<br><br>Know about me <br>I'm passionate about creating user-friendly and visually appealing websites that provide an optimal user experience. Aside from coding, I'm an avid sports fan and enjoy playing Cricket and swimming in my free time. I also enjoy traveling and learning about different cultures.<br><br>- 👯 I’m looking to collaborate on Fullstack projects<br><br>- 🌱 I’m currently learning Redux and Postgresql.<br><br>- 💬 Ask me about **HTML, CSS, JavaScript, React**<br><br>- 📫 How to reach me **syelore95@gmail.com**<br><br>- ⚡ Contact me on LinkedIn **https://www.linkedin.com/in/suraj-yelore-a21b06212**
 
 
 ## 🌐 Socials:
